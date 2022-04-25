@@ -13,6 +13,7 @@ public class Waypoints : MonoBehaviour
     private float movementSpeed = 0.8f;
     private float rotationSpeed = 3.0f;
 
+
     // Start is called before the first frame update
     void Start()
     {
