@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E82C02BB-94D1-8BC4-C70A-18DA1F63910B}</ProjectGuid>
+    <ProjectGuid>{372E6B0B-D021-C1EA-4A3E-6A155C3C7233}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,11 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
-    <Compile Include="Assets/Scripts/GunScript.cs" />
-    <Compile Include="Assets/Scripts/Pursuit.cs" />
-    <Compile Include="Assets/Scripts/Waypoints.cs" />
-    <Compile Include="Assets/Scripts/Zombie Pursuit.cs" />
-    <Compile Include="Assets/Scripts/CameraControl.cs" />
+    <Compile Include="Assets/CameraControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
